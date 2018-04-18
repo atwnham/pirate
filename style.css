@@ -1,0 +1,86 @@
+html, body {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+	background-image: url("images/piratetitle.svg");
+	height:50%;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	position: relative;
+}
+.sub {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	margin-top: 2em;
+}
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-gap: 50px;
+  
+}
+
+.item {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+margin: 10px;
+}
+
+}
+.sub{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 200%
+}
+#row {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  grid-gap: 50px;
+  margin: 30px 
+  
+}
+h3 {
+	margin-right: 20px;
+}
+
+#tip {
+  display: grid;
+   grid-template-columns: repeat(auto-fill, minmax(600px, 1fr));
+  grid-gap: 70px;
+  margin: 50px;
+  
+}
+
+.tipitem {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100px;
+}
+
+.tipitem.image {
+	background-image: url("placeholder1.jpg");
+}
+
+.footer {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+	
+
+	
+	
+	

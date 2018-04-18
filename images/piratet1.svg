@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 12.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 51448)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  version="1.1" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="586.565" height="184" viewBox="0 0 586.565 184"
+	 overflow="visible" enable-background="new 0 0 586.565 184" xml:space="preserve">
+<g id="Layer_1">
+	<g>
+		<polygon fill="#C69E38" stroke="#543810" points="585.965,54.333 578.241,71.667 584.908,88.333 579.298,147.001 585.965,183.5 
+			0.516,183.5 0.516,147 13.574,137.667 0.516,119.667 6.908,54.333 0.516,36.333 0.516,0.5 585.965,0.5 		"/>
+		<line fill="#845919" stroke="#664414" x1="0.516" y1="36.333" x2="585.575" y2="36.333"/>
+		<line fill="#845919" stroke="#664414" x1="584.908" y1="88.333" x2="4.241" y2="88.333"/>
+		<line fill="#845919" stroke="#664414" x1="13.574" y1="137.667" x2="580.241" y2="137.667"/>
+	</g>
+</g>
+<g id="Layer_3">
+	<rect x="87.24" y="67" fill="none" width="462.333" height="87"/>
+	
+		<text transform="matrix(1 0 0 1 87.2402 102.6152)" fill="#443514" stroke="#191005" font-family="'Montserrat-Regular'" font-size="48">Speak like a Pirate!</text>
+</g>
+<g id="top">
+</g>
+</svg>
